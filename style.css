@@ -33,7 +33,7 @@ border-radius: 12px;
     background-color: lightgreen;
     border-radius: 4px;
 }
-#site-footer, reference a {
+#site-footer , .reference a {
     color: red;
     padding: 10px 12px;
     border-radius: 10px
