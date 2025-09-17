@@ -28,3 +28,13 @@ border-radius: 12px;
     border-radius: 10px;
 
 }
+#site-footer {
+    padding: flex;
+    background-color: lightgreen;
+    border-radius: 4px;
+}
+#site-footer, reference a {
+    color: red;
+    padding: 10px 12px;
+    border-radius: 10px
+}
