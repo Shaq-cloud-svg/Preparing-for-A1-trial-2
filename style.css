@@ -8,6 +8,21 @@
     color: black;
     padding-bottom: 20px;
 }
-#site-nav ul, .nav-links{
-    
+#site-nav, .reference,.nav-link{
+background-color: gold;
+padding: flex;
+text-align: center;
+border-radius: 12px;
+}
+#site-nav ul, .reference ul, .nav-link{
+    margin:0;
+    justify-content: center;
+    padding: flex;
+    gap: 15px;
+}
+.nav-link, reference a {
+    color:beige;
+    padding: 10px 12px;
+    border-radius: 10px;
+
 }
